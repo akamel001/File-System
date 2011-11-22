@@ -1,0 +1,180 @@
+-1720*     *event   *Egypt          *EX     *Hebrews go down to Egypt *
+-1750*     *event   *Thera          *CLAS 42*Earthquake at Thera(ends Minoan peace) *
+-1290*     *event   *Egypt          *BA     *Hebrew Exodus: Egypt under Ramses II *
+-1250*     *event   *Israel         *EX     *Hebrews enter Promised Land *
+-1184*     *event   *Troy           *CLAS 42*Fall of Troy (Mycenae: King Agamemnon) *
+-1175*     *event   *Israel         *EX     *Philistines settle in Canaan *
+-922 *     *event   *Israel         *ENGL 62*Israel/Judah split (10 + 2) *
+-950 *     *event   *E Hemisphere   *BA     *Arabs sail to China (take Typhus god) *
+-776 *     *event   *Greece         *CLAS 42*1st Olympics *
+-753 *     *event   *Rome           *CLAS 42*Rome founded (an Etruscan colony) *
+-750 *     *work    *Greece         *CLAS 42*Iliad, Odessey, Homer *
+-725 *     *work    *Greece         *CLAS 42*Theogony, Hesiod (730-720) *
+-701 *     *event   *Israel         *CLAS 42*Assyrians take 10 tribes of Israel *
+-598 *     *event   *Jerusalem      *CLAS 42*Nebacchanezar sacks Jerusalem (1st deportation) *
+-587 *     *event   *Jerusalem      *ENGL 62*Temple of Jerusalem destroyed *
+-540 *     *event   *Israel         *ENGL 62*Hebrews return to rebuild under Persian rule *
+-480 *     *event   *Greece         *ENGL 62*Athens defeats Persia/Xerxes at Salamis (at sea) *
+-479 *     *event   *Greece         *ENGL 62*Sparta defeats Persia/Xerxes (on land) *
+-475 *     *work    *Greece         *CLAS 42*Oresteia, Aeschylus *
+-467 *     *event   *Greece         *CLAS 42*Seven against Thebes produced in Athens (Aeschylus) *
+-463 *     *work    *Greece         *CLAS 42*Prometheus, Aeschylus (470 or 456) *
+-442 *     *event   *Greece         *CLAS 42*Antigone produced (Sophocles) *
+-431 *     *event   *Greece         *CLAS 42*start of Peloponnesian War *
+-428 *     *event   *Greece         *CLAS 42*Hippolytus play produced (Euripides) *
+-409 *     *work    *Greece         *CLAS 42*Cyclops, Euripides *
+-405 *     *event   *Greece         *CLAS 42*Bacchae produced(Euripides:posthumous) *
+-146 *     *event   *Carthage       *CM     *Carthage destroyed by Romans *
+-118 *     *event   *Narbonne       *CM     *Narbonne:1st Roman city outside Italy *
+-30  *     *work    *Rome           *CLAS 42*Aeneid, Virgil *
+8    *     *event   *Tomi           *CM     *Ovid bannished to Tomi (Art of Love) *
+35   *     *event   *Jerusalem      *GZ     *St. Stephen stoned *
+43   *     *event   *England        *MS     *Romans invade Britain *
+64   *     *event   *Rome           *MS     *9 day fire, blamed on Christians *
+64   *     *event   *Rome           *MS     *St Peter crucified (upside down), Nero *
+65   *     *event   *Rome           *GZ     *St Paul beheaded under Nero *
+67   *     *work    *E Hemishere    *ENGL 62*Mark written *
+68   *     *event   *Qumran         *ENGL 62*Qumran Monastery destroyed by Romans *
+70   *     *event   *Jerusalem      *CM     *temple destroyed by Romans *
+73   *     *event   *Masada         *CM     *Masada falls to Romans *
+79   *     *event   *Italy          *CM     *Vesuvius buries Pompeii & Herculaneum *
+80   *     *work    *Rome           *MS     *Colosseum completed *
+81   *     *work    *Rome           *MS     *Arch of Titus,Spoils of Jerusalem *
+90   *     *work    *E Hemishere    *ENGL 62*John written *
+108  *     *person  *Ephysus        *MS     *John dies *
+106  *     *event   *Romania        *CM     *Romans conquer Dacia *
+113  *     *work    *Rome           *MS     *Column of Trajan *
+115  *     *event   *Mesopotamia    *CM     *Romans conquer Mesopotamia *
+121  *     *work    *Scotland       *CM     *Hadrian's Wall started *
+150  *     *work    *Fayyum         *EK     *Fayyum mummy portraits *
+173  *     *work    *Rome           *MS     *Equestrian statue of Marcus Aurelius *
+180  *     *event   *Scotland       *MS     *Romans pull back to Hadrian's Wall *
+193  *     *work    *Rome           *MS     *Column of Marcus Aurelius *
+202  *     *event   *Rome           *MS     *1st time permissible to be Christian *
+203  *     *work    *Rome           *CM     *Baths of Caracalla *
+231  *     *work    *Dura-Europus   *       *1st Christian House Church: plan *
+238  *     *event   *Europe         *MS     *Goths cross the Danube *
+250  *     *event   *Rome           *CM     *strong Christian persecution (emperor Decius) *
+256  *     *event   *Dura-Europus   *MS     *city destroyed by Persians *
+258  *     *event   *Rome           *MS     *St Lawrence martyred *
+259  *     *event   *France         *CM     *Gaul breaks away *
+260  *     *event   *Rome           *MS     *Christianity a 'permitted' religion, under Gallienus *
+270  *     *event   *Rome           *CM     *Aurelius becomes emperor *
+274  *     *event   *France         *CM     *Gaul reconquered by Aurelius *
+275  *     *event   *France         *CM     *towns in Gaul ordered to build walls *
+280  *     *event   *France         *MS     *Goths invade Gaul *
+285  *     *event   *Europe         *CM     *Maximian made co-emperor *
+286  *     *event   *Britain        *CM     *Britain breaks away *
+293  *     *event   *Europe         *CM     *2 more co-emperors named: Constantius & Galerius *
+296  *     *event   *Britain        *CM     *Britain recovered by Constantius *
+300  *     *work    *Rome           *CM     *Catacomb: SS Peter & Marcellinus *
+303  *     *event   *Europe         *CM     *Jupiter sacrifice required(Diocletian) *
+305  *     *event   *Europe         *CM     *Diocletian & Maximian quit leaving Constantius & Galerius *
+306  *     *event   *York           *CM     *Constantius dies, son Constantine crowned *
+312  *     *event   *Rome           *CM     *Battle of Milvian Bridge (Chi-Rho) (defeat of Maxentius) *
+313  *     *event   *Italy          *MS     *Edict of Milan (toleration of Christianity) *
+314  *     *event   *Arles          *CM     *Conference of Arles, 1st Christian counsel *
+320  *     *work    *Rome           *CM     *St John Lateran cathed (1st basilica church, no transcept) *
+321  *     *event   *Europe         *CM     *Constantine declares Sunday is Sabbath *
+324  *     *event   *Europe         *CM     *Capital moved to Constantinople *
+325  *     *event   *Nicaea         *CM     *Council of Nicaea, Asia Minor, set basic dogmas *
+330  *     *event   *Constantinople *GZ     *Dedication of Constantinople *
+336  *     *event   *Alexandria     *MS     *death of Arius *
+337  *     *event   *Europe         *MS     *death of Constantine:empire divided 3 ways (3 sons) *
+350  *     *event   *Europe         *MS     *Huns invade Europe *
+351  *     *event   *Europe         *GZ     *empire united under the 1 remaining son of Constantine *
+354  *     *event   *Rome           *GZ     *Constantina (Sta Constanza) dies *
+362  *     *event   *Constantinople *GZ     *persecution renewed & paganism restored (Julian the Apostate) *
+363  *     *event   *Europe         *CM     *end of Constantinian dynasty *
+364  *     *event   *Europe         *CM     *Valens (brother:Valentinian)takes East *
+367  *     *event   *Scotland       *CM     *Scot revolt (suppressed) *
+372  *     *event   *Russia         *CM     *Huns defeat Ostragoths on steppe *
+375  *     *event   *Europe         *CM     *Huns cross Dniester, defeat Visigoths who flee into Roman territory *
+377  *     *event   *Adrianople     *GZ     *Visigoths defeat and kill East emperor Valens *
+378  *     *event   *Constantinople *GZ     *pagan temples closed (Theosius the Great) *
+380  *     *event   *Europe         *GZ     *Christianity becomes an official religion *
+381  *     *event   *Milan          *CM     *Milan becomes 'de facto' West capital *
+382  *     *event   *Balkans        *CM     *Theodosius restores order in Balkans *
+386  *     *work    *Rome           *CM     *St Paul's Outside Walls built *
+388  *     *work    *Spain          *CM     *Missorium(plate) of Theodosius,silver, (w/nephew:Valentinian) *
+391  *     *event   *Europe         *MS     *Theodosius bans paganism (Judaism permitted) *
+394  *     *event   *Europe         *MS     *empire united for last time (under Theodosius) *
+395  *     *event   *Europe         *CM     *empire divided, (sons of Theodosius) West: Honorius, East: Arcadius *
+398  *     *event   *Greece         *CM     *Last (293rd) Olympic Games (Theodosius bans in 399) *
+400  *     *work    *Jerusalem      *MS     *Diptych: Ascension, 3 Marys at Tomb, ivory,Church of Holy Sepulchre *
+402  *     *event   *Ravenna        *GZ     *Honorius moves West capital to Ravenna *
+406  *     *event   *France         *GZ     *Vandals and others cross Rhine, ravage Gaul *
+408  *     *event   *Italy          *GZ     *Alaric the Visigoth invades Italy *
+409  *     *event   *Spain          *CM     *Vandals move from Gaul to Spain *
+410  *     *event   *Rome           *GZ     *Visigoths under Alaric sack Rome (spare churches--Arian) *
+415  *     *work    *Constantinople *CM     *1st Hagia Sophia begun *
+417  *     *event   *Spain          *CM     *Visigoths conquer Spain, settle in Aquitane *
+425  *     *event   *Arles          *GZ     *Arles made capital of remaining Roman Gaul *
+429  *     *event   *E Hemisphere   *ART 153*Vandals cross from Spain to Africa (they number 80,000) *
+431  *     *event   *Ephesus        *MS     *Council of Ephesus, Mary:Mother of God &reject Nestorian dual nature *
+438  *     *event   *Europe         *GZ     *Theodosius II recodifies Roman laws *
+439  *     *event   *Carthage       *CM     *Vandals capture Carthage *
+450  *     *event   *Milan          *MS     *Attila the Hun destroys Milan *
+451  *     *event   *France         *MS     *Huns turned back from Gaul by combined Roman-Gothic army *
+452  *     *event   *Rome           *GZ     *Attila the Hun hits/spares Rome *
+454  *     *event   *Europe         *GZ     *Battle of Nedao:German Hun tributaries revolt,disintegrating Hun empire *
+455  *     *event   *Rome           *MS     *Rome destroyed again, by Vandals (churches spared--Arian) *
+469  *     *event   *Spain          *MS     *Visigoths begin conquest of Spain *
+475  *     *event   *Britain        *GZ     *Anglo-Saxons begin to settle in England *
+476  *     *event   *Europe         *LG     *end of Roman Empire *
+482  *     *event   *Rome           *LG     *Pope Simplicius excomms. E Church ! *
+493  *     *event   *Ravenna        *CM     *Theodoric(Goth) founds kingdom:Ravenna *
+490  *     *work    *Ravenna        *MS     *St. Apollinare Nuovo built, Theodoric (for St. Martin) *
+497  *     *event   *Ravenna        *CM     *Theodoric: vice-regent,Byzantine West *
+486  *     *event   *France         *CM     *Clovis conquers Northwest Gaul *
+496  *     *event   *Europe         *CM     *Clovis accepts Christianity (baptized) *
+500  *     *work    *Europe         *EK     *Cotton Genesis, parchment *
+505  *     *event   *Europe         *EK     *Clovis conquers Alemanni of upper Rhine *
+507  *     *event   *France         *CM     *Clovis defeats Visigoths at Vougle' & drives them from France *
+511  *     *event   *Europe         *CM     *on death of Clovis, his 4 sons divide the kingdom *
+525  *     *work    *Europe         *CM     *Diptych:Archangel Michael(right),ivory *
+526  *     *work    *Ravenna        *GZ     *Mausoleum of Theodoric *
+528  *     *event   *Europe         *MS     *Justinian begins new codification of Roman law *
+532  *     *event   *Constantinople *MS     *Monophysite rebellion, destroyed half of city !, under Justinian *
+533  *     *event   *Europe         *MS     *Justinian starts reconquest of West *
+534  *     *event   *France         *CM     *Franks conquer Burgundy *
+537  *     *event   *Europe         *CM     *Franks conquer Provence & E Switzerland *
+540  *     *event   *Italy          *CM     *Ostragoths retake most of Italy from Roman forces *
+550  *     *work    *Europe         *MS     *fibulae, gilt, bronze *
+553  *     *event   *Europe         *ART 153*Ostragoths dissolved (Arian) *
+568  *     *event   *Ravenna        *MS     *Lombards start rule, accept Christianity*
+596  *     *event   *England        *MS     *St Augustine to England,1st Archbishop of Canterbury *
+622  *     *event   *Arabia         *LG     *Moslem era begins *
+632  *     *event   *Jerusalem      *LG     *Moslem conquest of Jerusalem *
+640  *     *event   *Egypt          *GZ     *Moslem conquest of Egypt *
+650  *     *event   *Jerusalem      *ART 153*Church of Holy Sepulchre destroyed*
+-3000*-2185*era     *Egypt          *ART 5  *Old Kingdom of Egypt *
+-2000*-1200*era     *World          *BA     *Bronze Age *
+-1020*-1000*king    *Hebron         *ENGL 62*Saul,king of Hebrews *
+-1000*-961 *king    *Israel         *ENGL 62*David, king of Hebrews *
+-961 *-922 *king    *Israel         *ENGL 62*Solomon,king of Hebrews *
+-1200*-587 *era     *E Hemisphere   *BA     *Iron Age *
+-800 *-700 *era     *E Hemisphere   *CLAS 42*Geometric                                                   *
+-700 *-500 *era     *Europe         *CLAS 42*Archaic                                                     *
+-525 *-456 *person  *Greece         *CLAS 42*Aeschylus *
+-496 *-406 *person  *Greece         *CLAS 42*Sophocles *
+-485 *-406 *person  *Greece         *CLAS 42*Euripides *
+-420 *-413 *work    *Greece         *CLAS 42*Electra, Sophocles *
+-500 *-323 *era     *Europe         *CLAS 42*Classical                                                   *
+-300 *-323 *person  *Greece         *CLAS 42*Alexander the Great                                         *
+-221 *-210 *work    *China          *CM     *Great Wall built *
+-70  *-19  *person  *Europe         *CLAS 42*Vergil *
+-43  *-17  *        *person         *       *Publius *
+-31  *-14  *era     *Europe         *       *Age of Augustus, Golden Age of Rediscovbery *
+-4   *29   *person  *Israel         *ENGL 62*Christ *
+14   *37   *emperor *Rome           *CM     *Tiberius (stepson of Augustus) *
+54   *68   *emperor *Rome           *MS     *Nero *
+393  *430  *bishop  *Europe         *MS     *St Augustine, Bishop of Hippo (West) *
+413  *426  *work    *Europe         *CM     *'City of God', written by St Augustine *
+422  *432  *work    *Rome           *CM     *Sta. Sabina built *
+433  *453  *king    *Europe         *MS     *Attila, King of Huns (forced E empire to cede land & pay tribute *
+432  *461  *period  *Ireland        *MS     *St Patrick in Ireland *
+489  *493  *period  *Italy          *CM     *Theodoric the Ostragoth conquers Italy *
+471  *526  *king    *Europe         *MS     *Theodoric, King of Ostragoths (Arian) *
+481  *511  *king    *Europe         *CM     *Clovis, King of Francs, founder of Merovingian dynasty *
+570  *632  *person  *Arabia         *MS     *Muhammad, prophet of Islam *
